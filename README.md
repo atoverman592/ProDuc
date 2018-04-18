@@ -1,3 +1,4 @@
+### ProDuc: A Productivity Program
 ### Ashley Overman | Curtis Simmons | Lucas Auman
 ### Advised by Dr. Shan Suthaharan
 ### CSC 490-02 Senior Capstone - Spring 2018 - University of North Carolina at Greensboro
